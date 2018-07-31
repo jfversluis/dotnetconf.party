@@ -1,2 +1,2 @@
-# dotnetconf.party
-Website for dotnetconf.party viewing party website
+# Website source for https://dotnetconf.party
+Website for https://dotnetconf.party viewing party website
